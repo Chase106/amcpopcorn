@@ -2,9 +2,8 @@ hello git!
 cchen139
 
 I add content here on branchTest branch.
-
 I realize I am using my friend's mac with his username, so I change user name on this push.
-
 And I want to add some more content
-
 I am on a new branch again yeee!
+And I want to add some more content.
+Branch Branch Branch!
