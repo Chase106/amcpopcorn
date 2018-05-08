@@ -2,3 +2,5 @@ hello git!
 cchen139
 
 I add content here on branchTest branch.
+
+I realize I am using my friend's mac with his username, so I change user name on this push.
